@@ -98,8 +98,10 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 
 ---
 
+#### 💬 Dev Quote
+
 <p align="center">
-  <em>"If it works, leave it!"</em> — <strong>Nam Cao</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=4000&pause=3000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%22If+it+works%2C+leave+it!%22+%E2%80%94+Nam+Cao" alt="Quote" />
 </p>
 
 ---
