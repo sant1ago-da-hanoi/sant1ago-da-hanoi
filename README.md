@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Nam+%F0%9F%91%8B;Building+native+tools+with+Rust+%F0%9F%A6%80;Java+%7C+TypeScript+%7C+Rust+%7C+PHP" alt="Typing SVG" />
-</p>
+```
+                    _   _                         _         _   _                   _ 
+ ___  __ _ _ __ | |_/ |  __ _  __ _  ___     __| | __ _  | | | | __ _ _ __   ___  (_)
+/ __|/ _` | '_ \| __| | / _` |/ _` |/ _ \   / _` |/ _` | | |_| |/ _` | '_ \ / _ \ | |
+\__ \ (_| | | | | |_| || (_| | (_| | (_) | | (_| | (_| | |  _  | (_| | | | | (_) || |
+|___/\__,_|_| |_|\__|_| \__,_|\__, |\___/   \__,_|\__,_| |_| |_|\__,_|_| |_|\___/ |_|
+                               |___/                                                   
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sant1ago-da-hanoi&style=flat-square&color=70A5FD" alt="Profile views" />
