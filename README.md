@@ -1,15 +1,16 @@
-```
- ____              _   _                    
-/ ___|  __ _ _ __ | |_/ |  __ _  __ _  ___  
-\___ \ / _` | '_ \| __| | / _` |/ _` |/ _ \ 
- ___) | (_| | | | | |_| || (_| | (_| | (_) |
-|____/ \__,_|_| |_|\__|_| \__,_|\__, |\___/ 
-                                 |___/       
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Nam+%F0%9F%91%8B;Building+native+tools+with+Rust+%F0%9F%A6%80;Java+%7C+TypeScript+%7C+Rust+%7C+PHP" alt="Typing SVG" />
+</p>
 
-### 👋 Hey, I'm Nam — a software engineer from Hanoi, Vietnam.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sant1ago-da-hanoi&style=flat-square&color=70A5FD" alt="Profile views" />
+</p>
 
-I build things that are fast, native, and bloat-free. ⚡
+---
+
+### 👋 About me
+
+I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, native, and bloat-free. ⚡
 
 🔨 Currently building [**SuprimSQL**](https://github.com/suprim-corp/suprim-sql) — a native database management tool for macOS, Windows & Linux. Built with **Rust + egui**. No Electron. No JVM. Just speed.
 
@@ -62,19 +63,55 @@ I build things that are fast, native, and bloat-free. ⚡
 
 ---
 
-#### 📊 GitHub Stats
+#### 📊 Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sant1ago-da-hanoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ago-da-hanoi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sant1ago-da-hanoi&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
-<p>
+#### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sant1ago-da-hanoi/sant1ago-da-hanoi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sant1ago-da-hanoi/sant1ago-da-hanoi/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sant1ago-da-hanoi/sant1ago-da-hanoi/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+#### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+#### 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
   <a href="https://sant1ago.dev">🌐 <code>sant1ago.dev</code></a> · 
   <a href="https://twitter.com/the_sant1ago">🐦 <code>@the_sant1ago</code></a> · 
   <a href="https://linkedin.com/in/sant1ago-da-hanoi">💼 <code>LinkedIn</code></a>
 </p>
 
-<sub>✨ Letting you, doesn't mean I have no temper.</sub>
+<p align="center">
+  <sub>✨ Letting you, doesn't mean I have no temper.</sub>
+</p>
