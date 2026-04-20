@@ -94,6 +94,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4](https://github.com/suprim-corp/suprim-sql/pull/4#issuecomment-4276885629) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+2. 🗣 Commented on [#4](https://github.com/suprim-corp/suprim-sql/pull/4#issuecomment-4276657956) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+3. 💪 Opened PR [#4](https://github.com/suprim-corp/suprim-sql/pull/4) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+4. 🚀 Published release [SuprimSQL 0.1.2](https://github.com/suprim-corp/suprim-sql/releases/tag/0.1.2) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+5. 🚀 Published release [SuprimSQL 0.1.1](https://github.com/suprim-corp/suprim-sql/releases/tag/0.1.1) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
 <!--END_SECTION:activity-->
 
 ---
