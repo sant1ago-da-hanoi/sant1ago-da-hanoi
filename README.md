@@ -32,7 +32,12 @@ I build things that are fast, native, and bloat-free. ⚡
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-%2347848F.svg?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/egui-%23FFC832.svg?style=flat&logo=rust&logoColor=black" />
   <img src="https://img.shields.io/badge/GraalVM-%23EE7624.svg?style=flat&logo=oracle&logoColor=white" />
 </p>
 
