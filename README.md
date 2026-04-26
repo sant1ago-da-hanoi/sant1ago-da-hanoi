@@ -99,11 +99,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.2](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.2) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
-2. 🚀 Published release [1.0.1](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.1) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
-3. 🗣 Commented on [#4](https://github.com/suprim-corp/suprim-sql/pull/4#issuecomment-4276885629) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
-4. 🗣 Commented on [#4](https://github.com/suprim-corp/suprim-sql/pull/4#issuecomment-4276657956) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
-5. 💪 Opened PR [#4](https://github.com/suprim-corp/suprim-sql/pull/4) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+1. 🎉 Merged PR [#4](https://github.com/suprim-corp/suprim-sql/pull/4) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+2. 🚀 Published release [1.0.2](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.2) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
+3. 🚀 Published release [1.0.1](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.1) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
+4. 🗣 Commented on [#4](https://github.com/suprim-corp/suprim-sql/pull/4#issuecomment-4276885629) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+5. 🗣 Commented on [#4](https://github.com/suprim-corp/suprim-sql/pull/4#issuecomment-4276657956) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
 <!--END_SECTION:activity-->
 
 ---
