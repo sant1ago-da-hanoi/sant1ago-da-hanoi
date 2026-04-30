@@ -99,11 +99,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/2) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
-2. 💪 Opened PR [#1](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/1) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
-3. ℹ️ Labeled issue [#260](https://github.com/xmannv/xkey/issues/260) in [xmannv/xkey](https://github.com/xmannv/xkey)
-4. ❗ Opened issue [#260](https://github.com/xmannv/xkey/issues/260) in [xmannv/xkey](https://github.com/xmannv/xkey)
-5. 🚀 Published release [1.0.3](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.3) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
+1. 🎉 Merged PR [#3](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/3) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
+2. 💪 Opened PR [#3](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/3) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
+3. 🎉 Merged PR [#1](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/1) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
+4. 🎉 Merged PR [#2](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/2) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
+5. 💪 Opened PR [#2](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/2) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
 <!--END_SECTION:activity-->
 
 ---
