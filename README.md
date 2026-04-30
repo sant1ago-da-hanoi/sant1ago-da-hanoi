@@ -99,11 +99,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.3](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.3) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
-2. 🚀 Published release [SuprimSQL 0.1.3](https://github.com/suprim-corp/suprim-sql/releases/tag/0.1.3) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
-3. 🎉 Merged PR [#4](https://github.com/suprim-corp/suprim-sql/pull/4) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
-4. 🚀 Published release [1.0.2](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.2) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
-5. 🚀 Published release [1.0.1](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.1) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
+1. ℹ️ Labeled issue [#260](https://github.com/xmannv/xkey/issues/260) in [xmannv/xkey](https://github.com/xmannv/xkey)
+2. ❗ Opened issue [#260](https://github.com/xmannv/xkey/issues/260) in [xmannv/xkey](https://github.com/xmannv/xkey)
+3. 🚀 Published release [1.0.3](https://github.com/suprim-corp/kit-backend-base-java/releases/tag/1.0.3) in [suprim-corp/kit-backend-base-java](https://github.com/suprim-corp/kit-backend-base-java)
+4. 🚀 Published release [SuprimSQL 0.1.3](https://github.com/suprim-corp/suprim-sql/releases/tag/0.1.3) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
+5. 🎉 Merged PR [#4](https://github.com/suprim-corp/suprim-sql/pull/4) in [suprim-corp/suprim-sql](https://github.com/suprim-corp/suprim-sql)
 <!--END_SECTION:activity-->
 
 ---
