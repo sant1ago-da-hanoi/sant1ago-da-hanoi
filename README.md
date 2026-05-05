@@ -99,11 +99,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/sant1ago-da-hanoi/oni-vie-beautiful-font/releases/tag/1.0.0) in [sant1ago-da-hanoi/oni-vie-beautiful-font](https://github.com/sant1ago-da-hanoi/oni-vie-beautiful-font)
-2. 🎉 Merged PR [#3](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/3) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
-3. 🎉 Merged PR [#1](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/1) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
-4. 🎉 Merged PR [#2](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/2) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
-5. 💪 Opened PR [#2](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/pull/2) in [sant1ago-da-hanoi/oni-vietnamese-translation](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation)
+1. 🔒 Closed issue [#12](https://github.com/suprim-corp/suprim-query/issues/12) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+2. 🎉 Merged PR [#13](https://github.com/suprim-corp/suprim-query/pull/13) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+3. 💪 Opened PR [#13](https://github.com/suprim-corp/suprim-query/pull/13) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+4. ℹ️ Labeled issue [#12](https://github.com/suprim-corp/suprim-query/issues/12) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+5. ❗ Opened issue [#12](https://github.com/suprim-corp/suprim-query/issues/12) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
 <!--END_SECTION:activity-->
 
 ---
