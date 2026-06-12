@@ -99,11 +99,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/tickernelz/opencode-mem/issues/119#issuecomment-4591244156) in [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem)
-2. 🚀 Published release [1.2.4](https://github.com/suprim-corp/suprim-query/releases/tag/1.2.4) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
-3. 🚀 Published release [1.2.3](https://github.com/suprim-corp/suprim-query/releases/tag/1.2.3) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
-4. 🚀 Published release [1.2.2](https://github.com/suprim-corp/suprim-query/releases/tag/1.2.2) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
-5. 🚀 Published release [1.2.1](https://github.com/suprim-corp/suprim-query/releases/tag/1.2.1) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+1. 🚀 Published release [1.2.5](https://github.com/suprim-corp/suprim-query/releases/tag/1.2.5) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+2. 🔒 Closed issue [#38](https://github.com/suprim-corp/suprim-query/issues/38) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+3. 🎉 Merged PR [#39](https://github.com/suprim-corp/suprim-query/pull/39) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+4. 💪 Opened PR [#39](https://github.com/suprim-corp/suprim-query/pull/39) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+5. ℹ️ Labeled issue [#38](https://github.com/suprim-corp/suprim-query/issues/38) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
 <!--END_SECTION:activity-->
 
 ---
