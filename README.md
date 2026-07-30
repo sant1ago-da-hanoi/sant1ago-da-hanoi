@@ -99,8 +99,8 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.5](https://github.com/suprim-corp/suprim-query/releases/tag/1.2.5) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
-2. 🔒 Closed issue [#38](https://github.com/suprim-corp/suprim-query/issues/38) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
+1. ❌ Closed PR [#1](https://github.com/suprim-corp/suprim-gateway/pull/1) in [suprim-corp/suprim-gateway](https://github.com/suprim-corp/suprim-gateway)
+2. 💪 Opened PR [#1](https://github.com/suprim-corp/suprim-gateway/pull/1) in [suprim-corp/suprim-gateway](https://github.com/suprim-corp/suprim-gateway)
 3. 🎉 Merged PR [#39](https://github.com/suprim-corp/suprim-query/pull/39) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
 4. 💪 Opened PR [#39](https://github.com/suprim-corp/suprim-query/pull/39) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
 5. ℹ️ Labeled issue [#38](https://github.com/suprim-corp/suprim-query/issues/38) in [suprim-corp/suprim-query](https://github.com/suprim-corp/suprim-query)
