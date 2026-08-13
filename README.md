@@ -99,11 +99,11 @@ I'm a software engineer from **Hanoi, Vietnam**. I build things that are fast, n
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5265085716) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
-2. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5262879049) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
-3. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5262508389) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
-4. ❗ Opened issue [#36](https://github.com/ptrinh/viettelex/issues/36) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
-5. ❌ Closed PR [#1](https://github.com/suprim-corp/suprim-gateway/pull/1) in [suprim-corp/suprim-gateway](https://github.com/suprim-corp/suprim-gateway)
+1. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5277169870) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
+2. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5265085716) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
+3. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5262879049) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
+4. 🗣 Commented on [#36](https://github.com/ptrinh/viettelex/issues/36#issuecomment-5262508389) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
+5. ❗ Opened issue [#36](https://github.com/ptrinh/viettelex/issues/36) in [ptrinh/viettelex](https://github.com/ptrinh/viettelex)
 <!--END_SECTION:activity-->
 
 ---
